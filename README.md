@@ -7,4 +7,6 @@ OCRMyPlaygroundRecursion : a swift playground file with recursion algorithm to c
 
 OCRTextFile : a text file to play with ...
 
-Greetings to OCR staff ;-)
+Greetings to OCR staff ;-) and from my local computer "Best Wishes for 2018"
+
+
